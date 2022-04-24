@@ -1,9 +1,9 @@
 
 # ℹ️ Portfolio Website
 
-* ### Now a day Every person require the Portfolio Website for applying job Process
-* ### The Portfolio website contain information the **Person and Person Skills.**
-* ### For Example **Portfolio Website** is same like cv or resume
+* ### Now a day Every person require the Portfolio Website for applying job Process.
+* ### The Portfolio website contain Information Like **Person, Person Skills and Work Sample Project Information.**
+* ### For Example **Portfolio Website** is same like cv or resume.
 
 ---
 
